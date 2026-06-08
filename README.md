@@ -35,10 +35,10 @@ Python Analysis Chart
 
 Project Structure
 
-├── inventory_data.csv
-├── inventory_analysis.py
-├── excel_dashboard.png
-├── inventory_analysis_chart.png
+├── inventory_data.csv  
+├── inventory_analysis.py  
+├── excel_dashboard.png  
+├── inventory_analysis_chart.png  
 └── README.md
 
 Skills Demonstrated
