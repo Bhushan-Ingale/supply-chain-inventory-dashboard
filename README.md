@@ -1,8 +1,8 @@
- Supply Chain Inventory Dashboard
+Supply Chain Inventory Dashboard
 
-A professional inventory analytics dashboard developed for a tyre manufacturing company. The project demonstrates inventory monitoring, stock risk identification, and data-driven decision-making using Excel and Python.
+A professional inventory analytics dashboard developed for a tyre manufacturing company. The project helps monitor inventory levels, identify stock shortages, and support reorder planning using Excel and Python.
 
- Features
+Features
 
 * Inventory status classification (Critical, Low, OK)
 * Material lookup by Material ID using VLOOKUP
@@ -10,17 +10,37 @@ A professional inventory analytics dashboard developed for a tyre manufacturing 
 * Interactive filtering using Slicers
 * KPI tracking for total inventory, critical items, and low-stock materials
 * Closing Stock vs Reorder Point visualization
-* Data processing and analysis using Python
+* Data analysis and visualization using Python
 
- Tools & Technologies
-* **Excel:** Pivot Tables, VLOOKUP, Conditional Formatting, Slicers, Charts
-* **Python:** Pandas, Matplotlib
-* **Dataset:** Supply chain inventory data for a Tyre manufacturing environment
+Tools & Technologies
 
- Business Value
+* Excel (Pivot Tables, VLOOKUP, Conditional Formatting, Slicers, Charts)
+* Python (Pandas, Matplotlib)
 
-The dashboard helps inventory and supply chain teams monitor stock levels, identify replenishment risks, analyze category-wise inventory, and support procurement planning through interactive reporting and visual insights.
+Key Insights
 
- Skills Demonstrated
+* Total Materials: 50
+* Total Inventory: 440,000 kg
+* Critical Materials: 24
+* Low Stock Materials: 17
+* Natural Rubber has the highest inventory volume among all categories
 
-Data Analysis, Inventory Management, Excel Automation, Dashboard Development, Data Visualization, Python for Business Analytics.
+Dashboard Preview
+
+![Excel Dashboard](excel_dashboard.png)
+
+Python Analysis Chart
+
+![Inventory Analysis](inventory_analysis_chart.png)
+
+Project Structure
+
+├── inventory_data.csv
+├── inventory_analysis.py
+├── excel_dashboard.png
+├── inventory_analysis_chart.png
+└── README.md
+
+Skills Demonstrated
+
+Data Analysis, Inventory Management, Excel Dashboarding, Business Analytics, Data Visualization, Supply Chain Analytics
